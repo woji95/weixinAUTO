@@ -1,11 +1,3 @@
-
-## 不懂看这里，文件下载直接使用
-```commandline
-链接：https://pan.baidu.com/s/1TzA8vGXNMcFKRTbtqdrKTw 
-提取码：mw5i
-```
-
-
 ## 前置条件
 注册一个微信公众号
 
